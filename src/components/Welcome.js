@@ -3,8 +3,8 @@ import React from "react";
 export default function Welcome(props) {
   return (
     <>
-      <h1>Hello {props.name}!!!</h1>
-      <h2> Welcome to Newton School:)</h2>
+      <h1>Hello {props.name}!</h1>
+      <h3>Welcome to Newton School.</h3>
     </>
   );
 }
